@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "thoritelauncher",
   "version": "1.9.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "Thorite Launcher",
+  "description": "PvP Survie Moddé",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) et ThoriteGroup (une galère)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/EvanKummel/ThoriteLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/EvanKummel/ThoriteLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -48,6 +48,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/EvanKummel/ThoriteLauncher.git"
   }
 }
