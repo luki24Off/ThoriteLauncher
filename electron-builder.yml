@@ -1,4 +1,4 @@
-appId: 'helioslauncher'
+appId: 'thoritelauncher'
 productName: 'Thorite Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
