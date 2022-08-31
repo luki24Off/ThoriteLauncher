@@ -537,7 +537,7 @@ exports.pullRemote = function(){
         return exports.pullLocal()
     }
     return new Promise((resolve, reject) => {
-        const distroURL = 'https://drive.google.com/uc?export=download&id=1qC8U_Hha3LTOdJopAli2zj09ISVw08Lp'
+        const distroURL = 'https://drive.google.com/uc?export=download&id=1_EkPKkIblGY7B4aJ3HtGE0S-AuJSYEAk'
         //const distroURL = 'https://gist.githubusercontent.com/dscalzi/53b1ba7a11d26a5c353f9d5ae484b71b/raw/'
         const opts = {
             url: distroURL,
